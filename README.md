@@ -1,13 +1,17 @@
 # 你好，我是 pika 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76C82&random=false&width=435&lines=关关难过关关过;前路漫漫亦灿灿)](https://git.io/typing-svg)
+
 ## 关于我 🌟
 - 🔭 正在学习和探索前端开发的世界
 - 🌱 持续学习，永不止步
 - 💡 热爱创新和尝试新技术
 
-## 最新博客文章 📝
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<div align="center">
+  <img src="img/b11e55bf2b838604431d7e0825502da1.gif" width="200" />
+  <img src="img/e954b5b492eab495d26fa26deff70290.gif" width="200" />
+</div>
+
 
 ## 技术栈 💻
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -19,14 +23,13 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
-## GitHub 统计 📊
-![ccccowo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccccowo&show_icons=true&theme=radical)
+
+## 最新博客文章 📝
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 ## 语言使用统计 📈
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccccowo&layout=compact&theme=radical)
 
-## 联系我 📫
-- GitHub: [@ccccowo](https://github.com/ccccowo)
 
----
-⭐️ From [ccccowo](https://github.com/ccccowo)
