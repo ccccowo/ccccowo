@@ -19,6 +19,11 @@
 
 ## 最新博客文章 📝
 <!-- BLOG-POST-LIST:START -->
+- [AI Agent](https://ccccowo.github.io/PikaBlog/2025/01/22/%E6%8A%80%E6%9C%AF%E8%A7%86%E9%87%8E/AI%20Agent/)
+- [RAG](https://ccccowo.github.io/PikaBlog/2025/01/22/%E6%8A%80%E6%9C%AF%E8%A7%86%E9%87%8E/RAG/)
+- [好物推荐！](https://ccccowo.github.io/PikaBlog/2025/01/22/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/%E5%A5%BD%E7%89%A9%E6%8E%A8%E8%8D%90%EF%BC%81/)
+- [基于Hexo + GitHub Actions + Obsidian的博客方案](https://ccccowo.github.io/PikaBlog/2025/01/21/%E6%8A%80%E6%9C%AF%E5%AE%9E%E8%B7%B5/%E5%9F%BA%E4%BA%8EHexo%20+%20GitHub%20Actions%20+%20Obsidian%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%96%B9%E6%A1%88/)
+- [Obsidian使用手册](https://ccccowo.github.io/PikaBlog/2025/01/21/%E7%9A%AE%E5%8D%A1%E7%9A%84%E4%BD%BF%E7%94%A8Notes/Obsidian%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 语言使用统计 📈
